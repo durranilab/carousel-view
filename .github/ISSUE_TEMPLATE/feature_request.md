@@ -5,6 +5,12 @@ title: ''
 labels: feature
 assignees: ''
 
+name: Feature request
+about: Allow Custom Corousel Numbers
+title: 'Custom Corusoul Numbers'
+labels: default is 3 what if we can change them to 5,7 etc.
+assignees: ''
+
 ---
 
 **Is your feature request related to a problem? Please describe.**
